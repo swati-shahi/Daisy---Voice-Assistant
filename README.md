@@ -15,4 +15,4 @@
 
 6) Time & Date: Get the current date and time at any time.
 
-7 )Tell Jokes: Daisy can tell jokes to lighten up your mood.
+7) Tell Jokes: Daisy can tell jokes to lighten up your mood.
